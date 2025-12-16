@@ -1,4 +1,4 @@
-##Stratified Sampling
+## Stratified Sampling
 
 This R Shiny application demonstrates stratified sampling design for
 estimating the population mean under Sampling-2.
